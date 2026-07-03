@@ -25,4 +25,4 @@ This project analyzes Zomato restaurant data using SQL queries. The analysis was
 This repository contains screenshots of all SQL queries and their outputs.
 
 ## Author
-*Sameera Khan*
+**Sameera Khan**
